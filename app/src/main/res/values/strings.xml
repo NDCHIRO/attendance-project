@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">attendance v5</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="create_new_room">create new room</string>
+    <string name="enter_room_name"> please enter room name</string>
+    <string name="done"> Done</string>
+    <string name="getLocation"> get location</string>
+    <string name="Longitude"> Longitude</string>
+    <string name="Latitude"> Latitude</string>
+    <string name="scanQR"> SCAN NOW</string>
+    <string name="or"> OR</string>
+    <string name="signOut"> sign out</string>
+    <string name="thanks"> THANK YOU!</string>
+    <string name="createRoom"> create your own room</string>
+    <string name="joinRoom"> scan QR code to join room </string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
