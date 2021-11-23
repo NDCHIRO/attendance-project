@@ -13,3 +13,7 @@ Features
 4. Firebase authentication
 
 5. Realtime firebase
+
+Drive link for Video and QR code generator exe
+
+https://drive.google.com/drive/folders/1WObmjMrYVMYpOXGoDrvi1bAcnS4_jM8V?usp=sharing
